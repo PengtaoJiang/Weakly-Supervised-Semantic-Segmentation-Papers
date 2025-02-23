@@ -1,6 +1,11 @@
 # Awesome-Weakly-Supervised-Semantic-Segmentation-Papers[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 *NOTE:*  If I miss some paper, plese feel free to contact me (pt.jiang at mail.nankai.edu.cn). Feel free to send me a PR!
 
+
+## 2025 
+| Title | Abbreviation | Venue | Supervision | PDF | CODE |
+| :-----|:-----:|:-----:|:---:|:---:|:----:|
+| Toward Modality Gap: Vision Prototype Learning for Weakly-supervised Semantic Segmentation with CLIP | VPL | AAAI | Image | [PDF](https://arxiv.org/pdf/2412.19650) | [CODE]() |
 ## 2024
 | Title | Abbreviation | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:-----:|:---:|:---:|:----:|
